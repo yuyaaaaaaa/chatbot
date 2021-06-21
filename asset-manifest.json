@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/firebase-chatbot/static/css/main.296d8a43.chunk.css",
-    "main.js": "/firebase-chatbot/static/js/main.7de92923.chunk.js",
-    "main.js.map": "/firebase-chatbot/static/js/main.7de92923.chunk.js.map",
-    "runtime-main.js": "/firebase-chatbot/static/js/runtime-main.b37972d0.js",
-    "runtime-main.js.map": "/firebase-chatbot/static/js/runtime-main.b37972d0.js.map",
-    "static/js/2.0466dd0e.chunk.js": "/firebase-chatbot/static/js/2.0466dd0e.chunk.js",
-    "static/js/2.0466dd0e.chunk.js.map": "/firebase-chatbot/static/js/2.0466dd0e.chunk.js.map",
-    "static/js/3.673224c0.chunk.js": "/firebase-chatbot/static/js/3.673224c0.chunk.js",
-    "static/js/3.673224c0.chunk.js.map": "/firebase-chatbot/static/js/3.673224c0.chunk.js.map",
-    "index.html": "/firebase-chatbot/index.html",
-    "static/css/main.296d8a43.chunk.css.map": "/firebase-chatbot/static/css/main.296d8a43.chunk.css.map",
-    "static/js/2.0466dd0e.chunk.js.LICENSE.txt": "/firebase-chatbot/static/js/2.0466dd0e.chunk.js.LICENSE.txt",
-    "static/media/LOGO-Webseisakuya.aa1c594b.png": "/firebase-chatbot/static/media/LOGO-Webseisakuya.aa1c594b.png",
-    "static/media/NoImageProfile.d57098d6.jpg": "/firebase-chatbot/static/media/NoImageProfile.d57098d6.jpg"
+    "main.css": "/chatbot/static/css/main.296d8a43.chunk.css",
+    "main.js": "/chatbot/static/js/main.7de92923.chunk.js",
+    "main.js.map": "/chatbot/static/js/main.7de92923.chunk.js.map",
+    "runtime-main.js": "/chatbot/static/js/runtime-main.484804be.js",
+    "runtime-main.js.map": "/chatbot/static/js/runtime-main.484804be.js.map",
+    "static/js/2.5c212725.chunk.js": "/chatbot/static/js/2.5c212725.chunk.js",
+    "static/js/2.5c212725.chunk.js.map": "/chatbot/static/js/2.5c212725.chunk.js.map",
+    "static/js/3.673224c0.chunk.js": "/chatbot/static/js/3.673224c0.chunk.js",
+    "static/js/3.673224c0.chunk.js.map": "/chatbot/static/js/3.673224c0.chunk.js.map",
+    "index.html": "/chatbot/index.html",
+    "static/css/main.296d8a43.chunk.css.map": "/chatbot/static/css/main.296d8a43.chunk.css.map",
+    "static/js/2.5c212725.chunk.js.LICENSE.txt": "/chatbot/static/js/2.5c212725.chunk.js.LICENSE.txt",
+    "static/media/LOGO-Webseisakuya.aa1c594b.png": "/chatbot/static/media/LOGO-Webseisakuya.aa1c594b.png",
+    "static/media/NoImageProfile.d57098d6.jpg": "/chatbot/static/media/NoImageProfile.d57098d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b37972d0.js",
-    "static/js/2.0466dd0e.chunk.js",
+    "static/js/runtime-main.484804be.js",
+    "static/js/2.5c212725.chunk.js",
     "static/css/main.296d8a43.chunk.css",
     "static/js/main.7de92923.chunk.js"
   ]
